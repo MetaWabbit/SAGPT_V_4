@@ -9,7 +9,7 @@
 
 <hr/>
 
-### 🔴 USE `stable` not `master` 🔴
+### ❇️This Is A Copy of the `AutoGPT Stable V 0.4.0` not `master`❇️
 
 **Download the latest `stable` release from here: https://github.com/Significant-Gravitas/Auto-GPT/releases/latest.**
 The `master` branch is under heavy development and may often be in a **broken** state.
